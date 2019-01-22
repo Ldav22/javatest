@@ -1,1 +1,2 @@
 javascript:(function()%7Bwindow.location='ifiles://'+(document.getElementsByTagName('video')%5B0%5D.src);%7D)();
+//bot cool
